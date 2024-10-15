@@ -1,0 +1,16 @@
+C:\Users\ebrar\source\repos\ArabaMuayene\ArabaMuayene\bin\Debug\ArabaMuayene.exe.config
+C:\Users\ebrar\source\repos\ArabaMuayene\ArabaMuayene\bin\Debug\ArabaMuayene.exe
+C:\Users\ebrar\source\repos\ArabaMuayene\ArabaMuayene\bin\Debug\ArabaMuayene.pdb
+C:\Users\ebrar\source\repos\ArabaMuayene\ArabaMuayene\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ebrar\source\repos\ArabaMuayene\ArabaMuayene\obj\Debug\ArabaMuayene.csproj.AssemblyReference.cache
+C:\Users\ebrar\source\repos\ArabaMuayene\ArabaMuayene\obj\Debug\ArabaMuayene.Form1.resources
+C:\Users\ebrar\source\repos\ArabaMuayene\ArabaMuayene\obj\Debug\ArabaMuayene.Properties.Resources.resources
+C:\Users\ebrar\source\repos\ArabaMuayene\ArabaMuayene\obj\Debug\ArabaMuayene.csproj.GenerateResource.cache
+C:\Users\ebrar\source\repos\ArabaMuayene\ArabaMuayene\obj\Debug\ArabaMuayene.csproj.CoreCompileInputs.cache
+C:\Users\ebrar\source\repos\ArabaMuayene\ArabaMuayene\obj\Debug\ArabaMua.700BC551.Up2Date
+C:\Users\ebrar\source\repos\ArabaMuayene\ArabaMuayene\obj\Debug\ArabaMuayene.exe
+C:\Users\ebrar\source\repos\ArabaMuayene\ArabaMuayene\obj\Debug\ArabaMuayene.pdb
+C:\Users\ebrar\source\repos\ArabaMuayene\ArabaMuayene\obj\Debug\ArabaMuayene.Forms.AracEkle.resources
+C:\Users\ebrar\source\repos\ArabaMuayene\ArabaMuayene\obj\Debug\ArabaMuayene.Forms.frmCustomMessageBox.resources
+C:\Users\ebrar\source\repos\ArabaMuayene\ArabaMuayene\obj\Debug\ArabaMuayene.Forms.frmAlert.resources
+C:\Users\ebrar\source\repos\ArabaMuayene\ArabaMuayene\obj\Debug\ArabaMuayene.Forms.MusteriGoruntule.resources
